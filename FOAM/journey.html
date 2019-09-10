@@ -1,0 +1,123 @@
+<html>
+  <head>
+    <title>FOAM API Example</title>
+    <script src="https://unpkg.com/deck.gl@^7.0.0/dist.min.js"></script>
+    <script src="https://unpkg.com/latlon-geohash@^1.1.0/latlon-geohash.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js"></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+    <style type="text/css">
+      body {
+        font-family: Helvetica, Arial, sans-serif;
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body></body>
+  <script type="text/javascript">
+
+    const {DeckGL, HexagonLayer} = deck;
+    
+	// Map
+	const BOUNDING_BOX = [
+	  [-73.857, 40.644],
+	  [-74.123, 40.827]
+	];
+	const INITIAL_ZOOM = 12;
+	const MIN_ZOOM = 5;
+	const MAX_ZOOM = 15;
+    const TEXT_COLOR = [29, 145, 192];
+    const TEXT_SIZE = 22;
+    const CARTOGRAPHER = "0x9c288e7f4dbd99e5753c4fb4c24cad3d73828ecb";
+    const HUNT_TAG = "Scavenger Hunt";
+	
+    // Functions
+    function getCenterPoint(bounding_box) {
+      return [(bounding_box[0][0] + bounding_box[1][0]) / 2, (bounding_box[0][1] + bounding_box[1][1]) / 2];
+    }
+    
+    function getPointCoords(geohash) {
+    	coords = Geohash.decode(geohash);
+    	return [coords['lon'], coords['lat'], 0];
+    }
+
+    const deckgl = new DeckGL({
+      mapboxApiAccessToken: '<mapbox-access-token>', // Replace with your Mapbox access token
+      mapStyle: 'mapbox://styles/mapbox/cj44mfrt20f082snokim4ungi',
+      longitude: getCenterPoint(BOUNDING_BOX)[0],
+      latitude: getCenterPoint(BOUNDING_BOX)[1],
+      zoom: INITIAL_ZOOM,
+      minZoom: MIN_ZOOM,
+      maxZoom: MAX_ZOOM,
+      pitch: 45,
+      bearing: 45
+    });
+
+    let data = [];
+
+    function renderLayer () {
+      const arcLayer = new ArcLayer({
+        id: 'arc-layer',
+        data,
+        getWidth: 12,
+        getSourcePosition: d => d.from.coords,
+        getTargetPosition: d => d.to.coords,
+        getSourceColor: d => [d.index / data.length * 173, (data.length - d.index) / data.length * 200, 255, 173],
+        getTargetColor: d => [d.index / data.length * 173, (data.length - d.index) / data.length * 200, 255, 173]
+      });
+     
+      const scatterplotLayer = new ScatterplotLayer({
+        id: 'scatter-plot',
+        data,
+        radiusScale: 1,
+        radiusMinPixels: 12,
+        getPosition: d => d.to.coords,
+        getFillColor: d => [d.index / data.length * 173, (data.length - d.index) / data.length * 200, 255]
+      });
+
+      deckgl.setProps({
+        layers: [scatterplotLayer, arcLayer]
+      });
+    }
+    
+    fetchPoints(100, 0);
+    function fetchPoints(limit, offset) {
+      // Load points here.
+      fetch('https://map-api-direct.foam.space/poi/filtered?creator=' + CARTOGRAPHER + '&swLng=' + BOUNDING_BOX[0][0] + '&swLat=' + BOUNDING_BOX[0][1] + '&neLng=' + BOUNDING_BOX[1][0] + '&neLat=' + BOUNDING_BOX[1][1] + '&status=removed&status=challenged&status=application&status=listing&sort=newest&limit=' + limit + '&offset=' + offset)
+        .then(result => result.json())
+        .then(json => {
+          var index = 1;
+          var previous_record;
+          json.forEach(function(record) {
+            record.tags.forEach(function(tag) {
+              if (tag === HUNT_TAG) {
+                if (previous_record) {
+                  data.push({
+                    name: record.name,
+                    index,
+                    from: {
+                      coords: getPointCoords(previous_record.geohash)
+                    },
+                    to: {
+                      coords: getPointCoords(record.geohash)
+                    }
+                  })
+                
+                }
+                previous_record = record;
+                index += 1;
+              }
+            });
+          });
+        
+          offset += json.length
+          if (json.length === limit) {
+            fetchPoints(limit, offset)
+          } else {
+            renderLayer();
+          }
+        });
+      }
+  </script>
+</html>
