@@ -59,7 +59,9 @@
     
     function addLayer(icon, bounding_box) {
       const state = icon['state']
-    
+      // Load points here.
+      // You can load from the FOAM points of interest with a query as below:
+      // Final URL: https://map-api-direct.foam.space/poi/filtered?swLng=-73.92&swLat=40.74&neLng=-74.03&neLat=40.78&status=listing&sort=most_value&limit=100&offset=0
       fetch('https://map-api-direct.foam.space/poi/filtered?swLng=' + bounding_box[0][0] + '&swLat=' + bounding_box[0][1] + '&neLng=' + BOUNDING_BOX[1][0] + '&neLat=' + bounding_box[1][1] + '&status=' + icon['state'] + '&sort=most_value&limit=100&offset=0')
         .then(result => result.json())
         .then(json => {
