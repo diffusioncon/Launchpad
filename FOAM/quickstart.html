@@ -1,0 +1,150 @@
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <title>FOAM API Example</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src="https://unpkg.com/latlon-geohash@^1.1.0/latlon-geohash.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+      body { margin:0; padding:0; }
+      #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+  </head>
+  <body>
+    <div id='map'></div>
+    <script>
+    mapboxgl.accessToken = '<mapbox-access-token>'; // Replace with your Mapbox access token
+    
+	  // Map
+	  const BOUNDING_BOX = [
+	    [-73.92, 40.74],
+	    [-74.03, 40.78]
+	  ];
+	  const INITIAL_ZOOM = 16
+
+	  // Icons
+	  /* Emojis via https://twemoji.twitter.com/
+	  * Copyright 2019 Twitter, Inc and other contributors
+	  * Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+	  */
+	  const icons = [{
+	    "name": "application",
+	    "state": "application",
+	    "url": "https://twemoji.maxcdn.com/2/72x72/1f6a9.png"
+	  },{
+	    "name": "listing",
+	    "state": "listing",
+	    "url": "https://twemoji.maxcdn.com/2/72x72/1f6a9.png"
+	  }]
+      
+      var map = new mapboxgl.Map({
+        style: 'mapbox://styles/mapbox/light-v10',
+        center: getMapCenter(BOUNDING_BOX),
+        zoom: INITIAL_ZOOM,
+        pitch: 45,
+        bearing: -17.6,
+        container: 'map'
+      });
+      
+      // Functions
+      function getMapCenter(bounding_box) {
+        return [(bounding_box[0][0] + bounding_box[1][0]) / 2, (bounding_box[0][1] + bounding_box[1][1]) / 2];
+      }
+ 
+      function getPointCoords(geohash) {
+        const coords = Geohash.decode(geohash);
+        return [coords['lon'], coords['lat']];
+      }
+    
+    function addLayer(icon, bounding_box) {
+      const state = icon['state']
+    
+      fetch('https://map-api-direct.foam.space/poi/filtered?swLng=' + bounding_box[0][0] + '&swLat=' + bounding_box[0][1] + '&neLng=' + BOUNDING_BOX[1][0] + '&neLat=' + bounding_box[1][1] + '&status=' + icon['state'] + '&sort=most_value&limit=100&offset=0')
+        .then(result => result.json())
+        .then(json => {
+          const featureCollection = json.map(function(record) {
+            const feature = {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": getPointCoords(record.geohash)
+              }
+            }
+                  
+            return feature;
+          });
+          
+          const geojson = {
+            "type": "geojson",
+            "data": {
+              "type": "FeatureCollection",
+              "features": featureCollection
+            }
+          };
+          
+          map.addLayer({
+		    "id": icon['name'],
+	    	"type": "symbol",
+		    "source": geojson,
+		    "layout": {
+			  "icon-image": icon['name'],
+			  "icon-allow-overlap": true,
+			  "icon-size": 0.5,
+		    }
+		  });
+        });
+    }
+    
+      // The 'building' layer in the mapbox-streets vector source contains building-height
+      // data from OpenStreetMap.
+      map.on('load', function() {
+      // Insert the layer beneath any symbol layer.
+        var layers = map.getStyle().layers;
+ 
+        var labelLayerId;
+        for (var i = 0; i < layers.length; i++) {
+          if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
+            labelLayerId = layers[i].id;
+            break;
+          }
+        }
+ 
+        map.addLayer({
+          'id': '3d-buildings',
+          'source': 'composite',
+          'source-layer': 'building',
+          'filter': ['==', 'extrude', 'true'],
+          'type': 'fill-extrusion',
+          'minzoom': 15,
+          'paint': {
+            'fill-extrusion-color': '#aaa',
+ 
+            // use an 'interpolate' expression to add a smooth transition effect to the
+            // buildings as the user zooms in
+            'fill-extrusion-height': [
+              "interpolate", ["linear"], ["zoom"],
+              15, 0,
+              15.05, ["get", "height"]
+            ],
+            'fill-extrusion-base': [
+              "interpolate", ["linear"], ["zoom"],
+              15, 0,
+              15.05, ["get", "min_height"]
+            ],
+            'fill-extrusion-opacity': .6
+          }
+        }, labelLayerId);
+        
+	    // Load icons
+	    icons.forEach(function(icon) {
+	      map.loadImage(icon['url'], function(error, image) {
+	        if (error) throw error;
+	        map.addImage(icon['name'], image);
+            addLayer(icon, BOUNDING_BOX);
+	      })
+	    });
+      });
+    </script>
+  </body>
+</html>
