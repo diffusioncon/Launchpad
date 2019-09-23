@@ -17,6 +17,11 @@ Replace `spree` with `nile` or `pacific` for test and main-nets, respectively. S
 
 You can now interact with your node using Squid. See `squid.py` for an example.
 
+*Note that you will need a config file for Squid. See the indivdual langauge flavours for details:*
+- [Python](https://github.com/oceanprotocol/squid-py)
+- [JavaScript](https://github.com/oceanprotocol/squid-js)
+- [Java](https://github.com/oceanprotocol/squid-java)
+
 ## Note to Python users
 
 On first boot-up, you'll need to copy artifacts out of the container:
@@ -26,5 +31,9 @@ do
     sleep 5
 done
 ```
+
+## Data Commons
+
+A large library of datasets, all running live on Ocean Protocol, is available at the [Commons Marketplace](https://commons.oceanprotocol.com/).
 
 
