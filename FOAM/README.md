@@ -1,4 +1,5 @@
 # FOAM
+## `JavaScript`, `Haskell`, `PureScript`
 
 Proof of location. A highly visual Convergence technology great for building map and location-focused apps.
 
