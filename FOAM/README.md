@@ -81,3 +81,5 @@ To get started, paste your access token into each of the example files where ind
 Get started with points and 3D rendering in `points.html`.
 
 Get started with journeys in `journey.html`.
+
+Example hackathon submission: [key recovery using locations you remember](https://devpost.com/software/mapcovery).
