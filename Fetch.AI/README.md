@@ -32,8 +32,13 @@ The OEF is an agent framework that runs on top of the ledger layer. It is highly
 The OEF is composed of Automous Economic Agents (AEAs). These are configured as a class `OEFAgent`. When working with agents, you simply extend this class - it includes a range of messaging, negotiation and trading functions.
 
 Requires: `Bazel`
+
 Node: requires a pair of nodes from [here](https://github.com/fetchai/oef-mt-core) and [here](https://github.com/fetchai/oef-search-pluto).
 
 Get started in Python with `pip3 install oef`, in C++ [here](https://github.com/fetchai/oef-sdk-cpp) and in Java/Kotlin [here](https://docs.fetch.ai/oef/java-kotlin-API/). Docs can be found can be found [here](https://docs.fetch.ai/oef/).
 
 See `aea_buyer.py` and `aea_seller.py` for an example pair of AEAs trading weather data.
+
+### Decentralised Machine Learning Example
+
+[CNNs in a decentralised network]().
