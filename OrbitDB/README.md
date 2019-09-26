@@ -21,7 +21,7 @@ Start: see `orbit.js`.
 
 Use in JS: `orbitdb.[db_type]('name')`
 
-For full usge details, see the [API reference](https://github.com/orbitdb/orbit-db/blob/master/API.md).
+For full usage details, see the [API reference](https://github.com/orbitdb/orbit-db/blob/master/API.md).
 
 It is also possible to [create your own database type](https://github.com/orbitdb/orbit-db/blob/master/GUIDE.md#custom-stores).
 
