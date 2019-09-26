@@ -28,7 +28,7 @@ The Sovrin network is the public network of nodes for Hyperledger Indy, run by C
 
 Request that a Steward onboard you (Sovrin, Evernym and Outlier Ventures are able and at Diffusion), after which you will be able to onboard others.
 
-In a local test network, you will have to boot up a Steward from a seed and then onboard any other individuals and issuers. See `credentials.py` for an example.
+In a local test network, you will have to boot up a Steward from a seed and then onboard any other individuals and issuers.
 
 ### Summary
 
@@ -38,6 +38,14 @@ In a local test network, you will have to boot up a Steward from a seed and then
 - Credentials are given by issuers and can be verified by anyone.
 - To use the network, you need to be onboarded by someone already on it.
 
+
+## Install and use
+
+[Install instructions for a variety of platforms](https://github.com/hyperledger/indy-sdk#installing-the-sdk).
+
+[How-tos for a variety of languages](https://github.com/hyperledger/indy-sdk/tree/master/docs/how-tos).
+
+See `credentials.py` for an example of what coding with Hyperledger Indy is like. Spoiler alert: the ledger does it all for you.
 
 ## Hyperledger, Indy, Sovrin, Evernym - what's the difference?
 
