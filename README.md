@@ -36,4 +36,4 @@ This repository hosts code for quickly getting started with the protocols at the
 
 ## What to build
 
-Check out the [tracks](https://github.com/DiffusionCon/blob/master/TRACKS.md) and the technology starter kits in this repo.
+Check out the [tracks](https://github.com/DiffusionCon/Launchpad/blob/master/TRACKS.md) and the technology starter kits in this repo.
