@@ -5,6 +5,8 @@ An Open Economic Framework (OEF) for AI agents acting on behalf of humans. An ex
 
 Fetch.AI has two parts: a smart contract platform and an automated buying / selling framework.
 
+[GitHub](https://github.com/fetchai) - [Website](https://fetch.ai/) - [Docs](https://docs.fetch.ai/) - [Chat](https://app.slack.com/client/TCK9CHC5V)
+
 ### Requirements
 
 ## Requirements
