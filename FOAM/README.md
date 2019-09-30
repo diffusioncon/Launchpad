@@ -5,6 +5,8 @@ Proof of location. A highly visual Convergence technology great for building map
 
 To throw yourself in at the deep end, jump to the JavaScript API at the bottom.
 
+[GitHub](https://github.com/f-o-a-m) - [Website](https://foam.space/) - [Docs](https://f-o-a-m.github.io/foam.developer/) - [Forum](https://discourse.foam.space/)
+
 ## Points vs Signals
 
 There are two key types of objects on the FOAM Map: Points and Signals.
