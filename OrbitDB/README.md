@@ -5,6 +5,8 @@ Decentralised database. Highly usable API for quickly storing data on IPFS.
 
 Great for in-browser and Node.js applications, or anything that needs decentralised storage.
 
+[GitHub](https://github.com/orbitdb) - [Website](https://orbitdb.org/) - [Docs](https://github.com/orbitdb/orbit-db#usage) - [Chat](https://gitter.im/orbitdb/Lobby)
+
 ## Get Started
 
 Install: `npm install orbit-db ipfs`
