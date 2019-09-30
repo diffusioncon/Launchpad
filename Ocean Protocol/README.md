@@ -3,6 +3,8 @@
 
 A data marketplace. Buy and sell datasets.
 
+[GitHub](https://github.com/oceanprotocol) - [Website](https://oceanprotocol.com/) - [Docs](https://docs.oceanprotocol.com/) - [Chat](https://gitter.im/oceanprotocol/Lobby)
+
 ## Starting fast
 
 Ocean can be quickly built on top of using Squid, its client library and API. For Python: `pip3 install squid-py`, for JavaScript: `npm i @oceanprotocol/squid` and for Java: [add squid as a Maven dependency](https://github.com/oceanprotocol/squid-java#installation).
