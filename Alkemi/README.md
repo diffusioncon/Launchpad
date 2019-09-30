@@ -5,6 +5,8 @@ Alkemi is an on-chain liquidity and investment protocol. It is excellent for bui
 
 Alkemi uses idle cryptoassets to turn a profit. It creates a crowdsourced liquidity pool plugged into all exchanges. It is fully-on chain.
 
+[GitHub](https://github.com/project-alkemi) - [Website](https://alkemi.ai/)
+
 ## Resources
 
 - [GitHub](https://github.com/project-alkemi)
