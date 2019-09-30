@@ -5,6 +5,7 @@ Hyperledger Indy (Sovrin) is a blockchain for self-sovereign identity and digita
 
 Using the Hyperledger Indy SDK requires knowledge of *one* of Rust, Python, JavaScript, Java, C# or iOS.
 
+[GitHub](https://github.com/hyperledger/indy-sdk) - [Website](https://sovrin.org/) - [Docs](https://github.com/hyperledger/indy-sdk/blob/master/docs/getting-started/indy-walkthrough.md) - [Chat](https://chat.sovrin.org/)
 
 ## How it works (worth the read)
 
