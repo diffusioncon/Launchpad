@@ -1,0 +1,49 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+}
+plugins {
+    id 'application'
+    id 'io.left.rightmesh.rightmesh-plugin' version '1.8.1'
+}
+
+rightmesh {
+    appKey = rightmesh_hellojavamesh_key
+    username = rightmesh_devportal_username
+    password = rightmesh_devportal_password
+}
+
+repositories {
+    google()
+    mavenLocal()
+    mavenCentral()
+    jcenter()
+    maven { url 'https://jitpack.io' }
+    maven {
+        url "https://dl.bintray.com/ethereum/maven/"
+    }
+    maven {
+        url "https://artifactory.rightmesh.io/artifactory/maven"
+        credentials {
+            username rightmesh_artifactory_username
+            password rightmesh_artifactory_password
+        }
+    }
+}
+
+dependencies {
+    compile 'io.left.rightmesh:lib-rightmesh-jre:0.10.0'
+    compile 'com.google.guava:guava:23.0'
+
+    testCompile 'junit:junit:4.12'
+}
+
+processResources {
+    dependsOn rightmesh
+    from rightmesh.outputFile
+}
+
+mainClassName = 'HelloJavaMesh'
+applicationDefaultJvmArgs = ["-noverify"]

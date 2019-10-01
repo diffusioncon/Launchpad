@@ -1,0 +1,9 @@
+# Gradle files
+.gradle
+
+# Build directories
+build/
+bin/
+
+# RightMesh license
+**/src/main/assets/rightmesh.json
