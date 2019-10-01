@@ -27,3 +27,7 @@ cd ERTP
 npm install
 npm test
 ```
+
+### Make a token
+
+See `token.js`. This mints and disrtibutes a token to a number of addresses.
