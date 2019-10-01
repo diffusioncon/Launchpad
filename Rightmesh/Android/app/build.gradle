@@ -1,0 +1,66 @@
+// NOTE: you MUST disable configureOnDemand for your compiler.
+// To do this in Android Studio: https://stackoverflow.com/a/49994951/4082582
+plugins {
+    id 'com.android.application'
+    id 'io.left.rightmesh.rightmesh-plugin' version '1.8.1'
+}
+
+rightmesh {
+    appKey = rightmesh_hellomesh_key
+    username = rightmesh_build_username
+    password = rightmesh_build_password
+}
+
+preBuild.dependsOn("rightmesh")
+
+repositories {
+    google()
+    jcenter()
+    mavenCentral()
+    maven {
+        url "https://artifactory.rightmesh.io/artifactory/maven"
+        credentials {
+            username rightmesh_build_username
+            password rightmesh_build_password
+        }
+    }
+    maven { url "https://dl.bintray.com/ethereum/maven" }
+}
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '28.0.3'
+    defaultConfig {
+        applicationId "io.left.hellomesh"
+        minSdkVersion 14
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_1_8
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation ('io.left.rightmesh:lib-rightmesh-android:0.10.0')
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
