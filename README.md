@@ -2,6 +2,8 @@
 
 This repository hosts code for quickly getting started with the protocols at the Diffusion Developer Conference 2019.
 
+To get started, jump into any of the protocol folders above.
+
 ## Agenda
 
 ### Saturday
