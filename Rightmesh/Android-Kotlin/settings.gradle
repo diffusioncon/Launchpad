@@ -1,0 +1,15 @@
+pluginManagement.repositories {
+    google()
+    jcenter()
+    mavenCentral()
+    mavenLocal()
+    maven {
+        url 'https://artifactory.rightmesh.io/artifactory/maven'
+        credentials {
+            username rightmesh_build_username
+            password rightmesh_build_password
+        }
+    }
+}
+
+include ':app'
