@@ -45,7 +45,7 @@ Note you can add tests to the `tests` folder and run `discovery test` to test yo
 
 ### Secret Contract specs
 
-Secret contracts are written in Rust.
+Secret contracts are written in Rust. They compile to WASM.
 
 The data size limit is 1MB for contract inputs.
 
