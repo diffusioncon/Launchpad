@@ -39,3 +39,15 @@ To get started, jump into any of the protocol folders above.
 ## What to build
 
 Check out the [tracks](https://github.com/DiffusionCon/Launchpad/blob/master/TRACKS.md) and the technology starter kits in this repo.
+
+## Registering a submission
+
+Register submissions on [Devpost](https://diffusion2019.devpost.com/).
+
+1. Start a submission by pressing the button on the right.
+2. Ensure all team members have been added.
+3. Ensure your submission links to your project's github repository.
+4. Describe your project and each team member's contributions.
+5. Hit submit.
+
+Judging will take place on the platform and announced at the event, as well as over email.
