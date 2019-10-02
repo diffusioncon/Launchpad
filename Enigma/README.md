@@ -63,3 +63,9 @@ Supported types and their mapping in Solidity contracts:
 - Bool => bool
 
 In general, stick to core Rust without dependencies and you can compute pretty much anything privately.
+
+## Further resources
+
+[Developer landing page](https://enigma.co/developers/)
+[Quickstart Medium article](https://enigma.co/start)
+
