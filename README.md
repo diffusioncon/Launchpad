@@ -40,6 +40,8 @@ To get started, jump into any of the protocol folders above.
 
 Check out the [tracks](https://github.com/DiffusionCon/Launchpad/blob/master/TRACKS.md) and the technology starter kits in this repo.
 
+Submissions must use one of the technologies of the Convergence Stack, please see the (lax) [rules](https://diffusion2019.devpost.com/rules).
+
 ## Registering a submission
 
 Register submissions on [Devpost](https://diffusion2019.devpost.com/).
