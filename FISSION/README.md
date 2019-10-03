@@ -7,10 +7,11 @@ Quickly deploy websites to IPFS, work with IPFS storage from Heroku, plus status
 
 ## Components
 
-1. IPFS-deploy: quickly deploy a website to IPFS.
-2. Get-IPFS: quickly load IPFS in a webpage.
-3. IPFS-API: use IPFS like regular cloud storage in most popular languages.
-4. FISSION Codes: status codes for smart contracts (the equivalent of 404, 500, 503 etc for HTTP) for easy runtime debugging and contract interoperability.
+1. FISSION Codes: status codes for smart contracts (the equivalent of 404, 500, 503 etc for HTTP) for easy runtime debugging and contract interoperability.
+2. IPFS-deploy: quickly deploy a website to IPFS.
+3. Get-IPFS: quickly load IPFS in a webpage.
+4. IPFS-API: use IPFS like regular cloud storage in most popular languages.
+
 
 ## FISSION Codes
 
@@ -106,3 +107,11 @@ Use in JavaScript:
 import getIpfs from 'get-ipfs'
 const ipfs = await getIpfs([config])
 ```
+
+## IPFS API
+
+The FISSION IPFS API is an HTTP API. The core is in Haskell, with client libraries available in Clojure, C#, Elixir, Elm, Erlang, Go, Java, JS, Kotlin, PHP, Python, Rust, Scala, Swift and TypeScript.
+
+- [Core API](https://github.com/fission-suite/web-api).
+- [Client libraries](https://github.com/fission-suite/ipfs-api-clients).
+- [Docs and API reference](https://runfission.com/docs/).
