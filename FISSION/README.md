@@ -70,3 +70,39 @@ You can also manually specify the build directory manually, e.g. `ipd /public`.
 
 IPFS-deploy will deploy your site via Infura and returns your IPFS URL at `ipfs.io`.
 
+## Get-IPFS
+
+### Install
+
+```
+npm install get-ipfs
+```
+
+### Use
+
+Set up a config:
+```js
+{
+  // `permissions` are enabled if the browser is ipfs-capable (Opera or extension)
+  // passed to `window.ipfs.enable` if available
+  // prevents a permission dialog from appearing for every action
+  permissions: ['id', 'version', 'add', 'cat', 'dag', 'swarm'],
+
+  // `peers` is a list of peer multiaddrs to connect to on load
+  // to work with the `js-ipfs` fallback, these must have available websocket ports
+  peers: []
+
+  // `browserPeers` is a list of peer multiaddrs to connect to only on fallback to an in-browser js-ipfs daemon
+  // note: these must be secure websocket or WebRTC addresses
+  browserPeers: []
+
+  // `localPeers` is a list of peer multiaddrs to connect to if using a local ipfs daemon (through ipfs companion for instance)
+  localPeers: []
+}
+```
+
+Use in JavaScript:
+```js
+import getIpfs from 'get-ipfs'
+const ipfs = await getIpfs([config])
+```
