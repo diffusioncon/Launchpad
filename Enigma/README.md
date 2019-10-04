@@ -66,6 +66,6 @@ In general, stick to core Rust without dependencies and you can compute pretty m
 
 ## Further resources
 
-[Developer landing page](https://enigma.co/developers/)
-[Quickstart Medium article](https://enigma.co/start)
+- [Developer landing page](https://enigma.co/developers/)
+- [Quickstart Medium article](https://enigma.co/start)
 
