@@ -24,4 +24,8 @@ cd $GOPATH/src/github.com/{ .Username }/nameservice
 git init
 ```
 
+The easiest way to build a Cosmos application is to follow the [tutorial](https://cosmos.network/docs/tutorial/app-design.html#state).
+
 A core framework for your app can be found in `app.go`.
+
+The completed application for the tutorial can be found [here](https://github.com/cosmos/sdk-application-tutorial).
