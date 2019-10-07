@@ -46,4 +46,4 @@ Much of IOTA's architecture makes use of trinary rather than binary (3 values ra
 1. `npm install @iota/core @iota/converter --save`
 2. Copy `data-transaction.js` to your working folder.
 3. Put the address to send to and your seed in `data-transaction.js` and run it.
-4. If using the devnet (default in the file), check your transaction went through using the [DevNet Tangle Explorer](https://devnet.thetangle.org/).
+4. If using the devnet (default in the file), check your transaction went through using the [DevNet Tangle Explorer](https://devnet.thetangle.org/) using the bundle output from step 3.
