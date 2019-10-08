@@ -1,4 +1,4 @@
-![Diffusion](/Images/header.png)
+![Diffusion](/Images/diffusion.png)
 
 This repository hosts code for quickly getting started with the protocols at the Diffusion Developer Conference 2019.
 
