@@ -16,7 +16,7 @@ Focus areas: Learning, Storage, Networking, Middleware, UX
 
 ## ETHBerlin and the DoD: community improvement bounties
 
-ETHBerlin and the <a href="http://decentralala.com/" target="_blank">Department of Decentralization</a> are coming to Diffusion 2019! We are excited to be hosting a track within the hackathon and there will be bounties of course. There will be Department of Decentralization Community Improvement Bounties focusing on all areas in the Convergence Stack, with a soft focus on Ethereum. Bounty details:
+ETHBerlin and the [Department of Decentralization](http://decentralala.com/) are coming to Diffusion 2019! We are excited to be hosting a track within the hackathon and there will be bounties of course. There will be Department of Decentralization Community Improvement Bounties focusing on all areas in the Convergence Stack, with a soft focus on Ethereum. Bounty details:
 
 - Middleware Community Improvement Bounty: during ETHBerlinZwei, DeFi reigned supreme. We saw incredible projects such as the mixer of mixers S.U.D.Z, Cherry Swap: swapping interest rates using the Compound Protocol, or Ratelock: fixed interest rates for lending/borrowing. 
 
@@ -28,7 +28,7 @@ ETHBerlin and the <a href="http://decentralala.com/" target="_blank">Department 
 
 - Networking Community Improvement Bounty: this is a continuation of our initiative with Protocol Labs’ Libp2p. Before ETHBerlin, we sourced feedback from developers building on Cosmos, ETH2.0, Golem and more and identified pain points that Libp2p needed to overcome for a better experience building the core networking stack for technologies such as Cosmos, Polkadot, ETH 2.0, and many others. During ETHBerlinZwei, we offered six bounties. 
 
-  We are continuing this great work by allocating 1,000 EUR to a Libp2p improvement bounty at Diffusion 2019. The more Libp2p continues to improve, the more teams around the blockchain ecosystem are benefitted! If you would like to contribute to the bounty, <a href="https://github.com/ethberlinzwei/Bounties/issues/21" target="_blank">the scope is here</a>.
+  We are continuing this great work by allocating 1,000 EUR to a Libp2p improvement bounty at Diffusion 2019. The more Libp2p continues to improve, the more teams around the blockchain ecosystem are benefitted! If you would like to contribute to the bounty, [the scope is here](https://github.com/ethberlinzwei/Bounties/issues/21).
 
 ## Web 2.5: onboarding the rest of the world to decentralised technology
 
@@ -42,7 +42,7 @@ Focus areas: Learning, Storage, Networking, Middleware, UX
 
 The Challenge: Creating the infrastructure for collaborative knowledge networks where questions meet people who want to help answer those questions. An open-source, decentralised network of (curated) ecosystem nodes, where people actually want to find each other. Their stories are bright stars, bound to be connected, only to find out the connection is already there.
 
-Since 2017, Odyssey has grown into the largest AI and blockchain hackathon in the world. Anyone who has ever been at Odyssey experiences a network and serendipity effect that is unlike any other hackathon. To get a feel for that serendipity, just have a look at the <a href="https://www.youtube.com/watch?v=wnhpSLb30BU" target="_blank">Odyssey 2019 after movie</a>. With the Serendipity Network we want to digitise and distribute the serendipity effect of the Odyssey Hackathon experience for everyone in the world and create a network of ecosystems committed to helping each other. Where each actor and ecosystem is connected, not based on who knows whom but on who is working on what and in which context.
+Since 2017, Odyssey has grown into the largest AI and blockchain hackathon in the world. Anyone who has ever been at Odyssey experiences a network and serendipity effect that is unlike any other hackathon. To get a feel for that serendipity, just have a look at the [Odyssey 2019 after movie](https://www.youtube.com/watch?v=wnhpSLb30BU). With the Serendipity Network we want to digitise and distribute the serendipity effect of the Odyssey Hackathon experience for everyone in the world and create a network of ecosystems committed to helping each other. Where each actor and ecosystem is connected, not based on who knows whom but on who is working on what and in which context.
 
 Focus areas: UX, Storage, Middleware
 
@@ -68,9 +68,9 @@ Focus areas: Storage, UX, Middleware, Learning
 
 Cryptoeconomic systems will allow us to establish new rules and economic incentives for blockchain ecosystems. For the first time in history we will be able to define such systems from scratch and use tokens as a programmable representation of value.
 
-To develop such systems we can apply tools and methods from complex systems engineering. One core element are simulations that allow us to verify a specific system design before launching it to the real world. Over the last months, BlockScience developed a token modeling framework, called <a href="https://medium.com/block-science/introducing-complex-adaptive-dynamics-computer-aided-design-cadcad-38b63b541eb8" target="_blank">cadCAD</a>.
+To develop such systems we can apply tools and methods from complex systems engineering. One core element are simulations that allow us to verify a specific system design before launching it to the real world. Over the last months, BlockScience developed a token modeling framework called [cadCAD](https://cadcad.org/), which already sports a vibrant [community](https://community.cadcad.org/).
 
-CommonsStack.org has <a href="https://youtu.be/qjdjX2m_p0Q" target="_blank">open-sourced cadCAD at the tegg.io conference in August</a> - it is now available to everyone to start simulating token economies.
+[CommonsStack.org](https://commonsstack.org) has [open-sourced cadCAD at the tegg.io conference in August](https://youtu.be/qjdjX2m_p0Q) - it is now available to everyone to start simulating token economies.
 
 The TokenEngineering track seeks developers to use cadCAD to validate and improve a given cryptoeconomic building block, or create one.
 
