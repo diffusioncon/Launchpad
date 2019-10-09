@@ -54,7 +54,7 @@ To get started, jump into any of the protocol folders above.
 
 **Timings**|**Lexis: Purple zone (Ground Floor)**|**Lexis: Yellow zone (Ground Floor)**|**Lexis: Blue zone (Ground Floor)**|**Peter (2nd Floor)**
 -----|-----|-----|-----|-----
-10:00|"Cosmos talk: Tendermint| proof of stake at scale today"| |MOXY talk: interoperable decentralised identity
+10:00|Cosmos talk: Tendermint - proof of stake at scale today| |MOXY talk: interoperable decentralised identity| 
 10:30|Neufund talk: regulation-compliant security tokens| |Upvest talk: onboarding the 99% to blockchain| 
 11:00|Fission talk: licensing open-source software| |Blockdaemon talk: node monitoring| 
 11:30|Steamr talk: pub/sub data trading| | | 
