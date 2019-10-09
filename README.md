@@ -4,37 +4,31 @@ This repository hosts code for quickly getting started with the protocols at the
 
 To get started, jump into any of the protocol folders above.
 
-## Agenda
+## Hackathon agenda
 
 ### Saturday
 
-8am - 10am : Registration opens, check-in and formation of new teams, breakfast
-
-10am : Welcome speech, talks and workshops start
-
-11am : Hack starts
-
-1pm - 3pm : Lunch
-
-7pm - 9pm : Dinner and Beer
-
-12am : Close of Factory
+| Timings       | Agenda                                                              |
+|---------------|---------------------------------------------------------------------|
+| 8:00 - 10:00  | Registration opens, check-in and formation of new teams, breakfast. |
+| 10:00 - 10:30 | Welcome speech, talks and workshops start.                          |
+| 11:00         | Hack starts.                                                        |
+| 13:00 - 15:00 | Lunch.                                                              |
+| 16:30         | Mentor / team check-in with coffee and snacks.                      |
+| 19:00 - 21:00 | Dinner and drinks - sponsored by Deutsche Telekom.                  |
+| 24:00         | Closed for the day.                                                 |
 
 ### Sunday
 
-8am - 10am : Registration opens, check-in, breakfast
-
-8am : Hack starts
-
-9am - 11am : Breakfast is served
-
-1pm - 2pm : Lunch
-
-3pm : Judging of submissions
-
-6pm - 7pm : Award ceremony
-
-7pm - 8.30pm : Dinner and drinks
+| Timings       | Agenda                                                              |
+|---------------|---------------------------------------------------------------------|
+| 8:00          | Registration open, hack starts.                                     |
+| 9:00 - 11:00  | Breakfast.                                                          |
+| 11:30         | Mentor/ team check-in with coffee and snacks.                       |
+| 13:00 - 15:00 | Lunch.                                                              |
+| 15:00         | Judging of submissions.                                             |
+| 18:00 - 19:00 | Awards ceremony.                                                    |
+| 19:00 - 20:30 | Dinner and drinks.                                                  |
 
 ## What to build
 
