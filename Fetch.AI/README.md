@@ -7,8 +7,6 @@ Fetch.AI has two parts: a smart contract platform and an automated buying / sell
 
 [GitHub](https://github.com/fetchai) - [Website](https://fetch.ai/) - [Docs](https://docs.fetch.ai/) - [Chat](https://app.slack.com/client/TCK9CHC5V)
 
-### Requirements
-
 ## Requirements
 
 - Linux or MacOS

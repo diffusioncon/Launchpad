@@ -72,8 +72,8 @@ SEED|Chatbots|Python / JS|Conversational AI.
 13:30|Evernym talk: self-sovereign identity|Chainlink talk: smart contracts in real-life situations|Haja Networks workshop: decentralized databases| 
 14:00|IOTA talk: state of the DAG|R3 workshop: build on Corda|Cosmos workshop: build a blockchain app| 
 14:30|Enigma talk: private smart contracts on public networks|ETH Berlin talk: using the Goerli testnet|Fractal talk: regulatory compliance cheatsheet|DAOStack workshop: deploy DAOs fast
-15:00|Cosmos & Agoric workshop: blockchain interoperability|Odyssey talk: ecosystems for good|Quorum Control talk: Tupelo - PoS + DAG + IPFS|DAOStack workshop: deploy DAOs fast
-15:30|Alkemi talk: profiting off idle tokens|Fetch.AI talk: Fetch.AI for Ethereum developers|Ocean Protocol talk|DAOStack workshop: deploy DAOs fast
+15:00|Cosmos & Agoric workshop: blockchain interoperability|Fetch.AI talk: Fetch.AI for Ethereum developers|Quorum Control talk: Tupelo - PoS + DAG + IPFS|DAOStack workshop: deploy DAOs fast
+15:30|Alkemi talk: profiting off idle tokens|Odyssey talk: ecoystems for good|Ocean Protocol talk|DAOStack workshop: deploy DAOs fast
 16:00|Parity workshop: build fast blockchains with Substrate|Taqanu talk: decentralized identity|Nervos talk: a blockchain that stores any crypto|DAOStack workshop: deploy DAOs fast
 16:30|Outlier Ventures Base Camp| |OS Coin talk: Radicle - paying open-source devs| 
 17:00|Outlier Ventures Base Camp| | | 
