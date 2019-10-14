@@ -36,7 +36,67 @@ SEED|Chatbots|Python / JS|Conversational AI.
 
 ### Prize Glossary
 
+There are plenty of prizes to be had! Unless otherwise specified, prizes are paid out in a combination of EUR and Fetch.AI tokens.
 
+#### Overall prizes
+
+**Prize**|**EUR Value**
+-----|-----
+Winner of Diffusion Dev Con '19 |€1,600
+Silver Runner-Up Diffusion Dev Con '19 |€1,000
+Bronze Runner-Up Diffusion Dev Con '19 |€400
+
+#### Track prizes
+
+**Prize **|**EUR Value**
+-----|-----
+A Stack for Good Track Winner |€400
+Web 2.5 Track Winner |€400
+The Odyssey Serendipity Network Track Winner |€400
+Machine Learning in the Decentralised World Track Winner |€400
+Shaking Up the Model Track Winner |€400
+The Usable Stack Track Winner |€400
+T-Labs Sharing in Consortia Networks Track Winner|€1,000
+Hyperledger Identity Layer - Integrated Credential Track Winner |€900
+Hyperledger Identity Layer - Empowering IoT Track Winner |€900
+Hyperledger Identity Layer - Social Impact Track Winner |€900
+Hyperledger Identity Layer  - Travel Enablement Track Winner |€900
+ETHBerlin and the DoD: Middleware Bounty Track Winner |€1,000
+ETHBerlin and the DoD: UX Bounty Track Winner |€1,000
+ETHBerlin and the DoD: Networking Bounty Track Winner |€1,000
+Token Engineering Track Winner |€1,000
+
+#### Techology prizes
+
+**Prize **|**EUR Value **|**Paid As **|**Rules**
+-----|-----|-----|-----
+Winner of the Ocean Protocol Technology Prize |€1,000|OCEAN|Build with Ocean Protocol
+Ocean Runner-Up |€250|OCEAN|Build with Ocean Protocol
+Ocean Runner-Up |€250|OCEAN|Build with Ocean Protocol
+Ocean Runner-Up |€250|OCEAN|Build with Ocean Protocol
+Ocean Runner-Up |€250|OCEAN|Build with Ocean Protocol
+Ocean Runner-Up |€250|OCEAN|Build with Ocean Protocol
+Winner of the IOTA Technology Prize |€1,000|IOTA|Build with IOTA
+IOTA Runner-Up |€250|IOTA|Build with IOTA
+IOTA Runner-Up |€250|IOTA|Build with IOTA
+IOTA Runner-Up |€250|IOTA|Build with IOTA
+Winner of the Fetch.ai Technology Prize |€1,000|FET|Build with Fetch.ai
+Fetch Runner-up|€250|FET|Build with Fetch.ai
+Fetch Runner-up|€250|FET|Build with Fetch.ai
+Fetch Runner-up|€250|FET|Build with Fetch.ai
+Fetch Runner-up|€250|FET|Build with Fetch.ai
+Fetch Runner-up|€250|FET|Build with Fetch.ai
+Fetch Runner-up|€250|FET|Build with Fetch.ai
+Fetch Runner-up|€250|FET|Build with Fetch.ai
+Winner of the FOAM Technology Prize |€1,000|EUR|Build with FOAM
+FOAM runner up 1|€250|EUR|Build with FOAM
+FOAM runner up 2|€250|EUR|Build with FOAM
+FOAM runner up 3|€250|EUR|Build with FOAM
+Winner of the iExec Technology Prize |€1,000|DAI|Build with iExec
+iExec Runner-Up|€250|DAI|Build with iExec
+iExec Runner-Up|€250|DAI|Build with iExec
+iExec Runner-Up|€250|DAI|Build with iExec
+Winner of the Chainlink Technology Prize|€450|LINK|Build with Chainlink
 
 ## Hackathon agenda
 
