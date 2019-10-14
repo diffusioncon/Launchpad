@@ -1,4 +1,6 @@
-![Diffusion](/Images/diffusion.png)
+<p align="center">
+    <img src="./Images/diffusion.png" width="550" />
+</p>
 
 This repository hosts code for quickly getting started with the protocols at the Diffusion Developer Conference 2019.
 
@@ -33,6 +35,10 @@ Quorum Control|Blockchain platform|JS / TypeScript / Closure|PoS + DAG + IPFS.
 R3 Corda|Blockchain platform|Kotlin / Java|Enterprise blockchains.
 Rightmesh|Mesh networking|Kotlin / Java|IoT edge networking.
 SEED|Chatbots|Python / JS|Conversational AI.
+
+Check out the [tracks](https://github.com/DiffusionCon/Launchpad/blob/master/TRACKS.md) and the technology starter kits in this repo.
+
+Submissions must use one of the technologies of the Convergence Stack, please see the (lax) [rules](https://diffusion2019.devpost.com/rules).
 
 ### Prize Glossary
 
@@ -154,12 +160,6 @@ Winner of the Chainlink Technology Prize|€450|LINK|Build with Chainlink
 11:30|Steamr talk: pub/sub data trading| | | 
 18:00|Closing ceremony|Closing ceremony|Closing ceremony| 
 18:30|Closing ceremony|Closing ceremony|Closing ceremony| 
-
-## What to build
-
-Check out the [tracks](https://github.com/DiffusionCon/Launchpad/blob/master/TRACKS.md) and the technology starter kits in this repo.
-
-Submissions must use one of the technologies of the Convergence Stack, please see the (lax) [rules](https://diffusion2019.devpost.com/rules).
 
 ## Registering a submission
 
