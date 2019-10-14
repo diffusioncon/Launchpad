@@ -4,7 +4,9 @@ This repository hosts code for quickly getting started with the protocols at the
 
 To get started, see the glossary of what to build on below.
 
-## What to build on
+## What to build
+
+### Protocol Glossary
 
 Build on one or more of the below to qualify for a prize.
 
@@ -31,6 +33,10 @@ Quorum Control|Blockchain platform|JS / TypeScript / Closure|PoS + DAG + IPFS.
 R3 Corda|Blockchain platform|Kotlin / Java|Enterprise blockchains.
 Rightmesh|Mesh networking|Kotlin / Java|IoT edge networking.
 SEED|Chatbots|Python / JS|Conversational AI.
+
+### Prize Glossary
+
+
 
 ## Hackathon agenda
 

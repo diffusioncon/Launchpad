@@ -23,7 +23,7 @@ Node: [here](https://github.com/fetchai/ledger).
 
 Deployments are done using the Ledger API in Python: `pip3 install fetchai-ledger-api`. Get started [here](https://docs.fetch.ai/etch-language/getstarted/).
 
-See `smart_contract.py` for how to deplopy smart contracts to your node.
+See `smart_contract.py` for how to deploy smart contracts to your node.
 
 #### The Open Economic Framework (OEF)
 
@@ -39,6 +39,10 @@ Get started in Python with `pip3 install oef`, in C++ [here](https://github.com/
 
 See `aea_buyer.py` and `aea_seller.py` for an example pair of AEAs trading weather data.
 
-### Decentralised Machine Learning Example
+See the latest [AEA Framework](https://github.com/fetchai/agents-aea) for a high-level agent SDK.
 
-[CNNs in a decentralised network]().
+## Machine Learning with Fetch.AI
+
+You can plug Python code natively into any OEF agent with the OEF Python SDK.
+
+Create a class that extends `OEFAgent` and just plug any ML functions in as needed. See `aea_buyer.py` and `aea_seller.py` for examples.
