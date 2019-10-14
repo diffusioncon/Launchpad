@@ -2,7 +2,35 @@
 
 This repository hosts code for quickly getting started with the protocols at the Diffusion Developer Conference 2019.
 
-To get started, jump into any of the protocol folders above.
+To get started, see the glossary of what to build on below.
+
+## What to build on
+
+Build on one or more of the below to qualify for a prize.
+
+**Name**|**Area**|**Languages**|**Description**
+-----|-----|-----|-----
+Agoric|Security / smart contracts|JS / Solidity|Secure smart contracts.
+Alkemi|DeFi|Solidity|Profit off idle tokens.
+Aragon|DAO|JS / Solidity|Build DAOs.
+Chainlink|DeFi / data|JS / Solidity|Data / FIAT blockchain plugins.
+Cosmos|Blockchain platform|Go|Build blockhains.
+DAOStack|DAO|JS|Build DAOs.
+Enigma|Privacy / smart contracts|Rust / JS|Decentralized private compute.
+Fetch.AI|Machine Learning|Python / C++|Decentralized machine learning.
+Fission|IPFS / Ethereum|Most languages|Ethereum and IPFS tooling.
+FOAM|Location|JS / Haskell / PureScript|Proof of location.
+Golem|Compute|Rust / Python / JS / Solidity|Compute network.
+Hyperledger/Sovrin|Identity|Rust / Python / JS / Java / C# / iOS|Self-sovereign identity.
+iExec|Compute|JS / Java|Compute network.
+IOTA|Transactions / DAG|Java / JS / Go / Python / C#|Scalable distributed ledger.
+Ocean Protocol|Data marketplace|Python / JS / Java|Buy and sell datasets.
+OrbitDB|Databases / IPFS|JS|Decentralized database.
+Parity/Substrate|Blockchain platform|Rust / JS|Hyper-fast blockchains.
+Quorum Control|Blockchain platform|JS / TypeScript / Closure|PoS + DAG + IPFS.
+R3 Corda|Blockchain platform|Kotlin / Java|Enterprise blockchains.
+Rightmesh|Mesh networking|Kotlin / Java|IoT edge networking.
+SEED|Chatbots|Python / JS|Conversational AI.
 
 ## Hackathon agenda
 
