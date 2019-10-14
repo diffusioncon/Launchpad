@@ -31,4 +31,4 @@ It is also possible to [create your own database type](https://github.com/orbitd
 
 It really is that simple - thank the Haja Networks team.
 
-Check out the full docs and some example uses of OrbitDB [here](https://github.com/orbitdb/orbit-db)
+Check out the full docs and some example uses of OrbitDB [here](https://github.com/orbitdb/orbit-db).
