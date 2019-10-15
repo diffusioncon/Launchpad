@@ -63,10 +63,10 @@ Machine Learning in the Decentralised World Track Winner |€400
 Shaking Up the Model Track Winner |€400
 The Usable Stack Track Winner |€400
 T-Labs Sharing in Consortia Networks Track Winner|€1,000
-Hyperledger Identity Layer - Integrated Credential Track Winner |€900
-Hyperledger Identity Layer - Empowering IoT Track Winner |€900
-Hyperledger Identity Layer - Social Impact Track Winner |€900
-Hyperledger Identity Layer  - Travel Enablement Track Winner |€900
+Identity and and beyond with Hyperledger - Integrated Credential Track Winner |€900
+Identity and and beyond with Hyperledger - Empowering IoT Track Winner |€900
+Identity and and beyond with Hyperledger - Social Impact Track Winner |€900
+Identity and and beyond with Hyperledger - Travel Enablement Track Winner |€900
 ETHBerlin and the DoD: Middleware Bounty Track Winner |€1,000
 ETHBerlin and the DoD: UX Bounty Track Winner |€1,000
 ETHBerlin and the DoD: Networking Bounty Track Winner |€1,000

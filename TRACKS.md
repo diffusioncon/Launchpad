@@ -92,7 +92,7 @@ Developers in this track will get access to Stax, the multi-blockchain orchestra
 
 Focus Areas: Security, UX, Storage
 
-## Hyperledger and the Convergence Stack: self-sovereign identity and beyond
+## Identity and and beyond with Hyperledger: credentials for digital trust
 
 The Hyperledger project governs a rich set of open source technologies for the decentralised web, including Hyperledger Indy which underpins Sovrin, an important component of the Convergence Stack. Other notable Hyperledger projects include Fabric, one of the most popular platforms for enterprise blockchain networks, Iroha, a modular distributed blockchain platform, and Burrow and Besu, both EVM-based blockchain code bases.
 
