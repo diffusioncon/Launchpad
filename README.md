@@ -42,7 +42,7 @@ Submissions must use one of the technologies of the Convergence Stack, please se
 
 ### Prize Glossary
 
-There are plenty of prizes to be had! Unless otherwise specified, prizes are paid out in a combination of EUR and Fetch.AI tokens.
+There are plenty of prizes to be had!
 
 #### Overall prizes
 
@@ -52,25 +52,29 @@ Winner of Diffusion Dev Con '19 |€1,600
 Silver Runner-Up Diffusion Dev Con '19 |€1,000
 Bronze Runner-Up Diffusion Dev Con '19 |€400
 
+Prizes are paid out in a combination of EUR and Fetch.AI tokens.
+
 #### Track prizes
 
 **Prize **|**EUR Value**
 -----|-----
+T-Labs Sharing in Consortia Networks Track Winner|€1,000
+ETHBerlin and the DoD: Middleware Bounty Track Winner |€1,000
+ETHBerlin and the DoD: UX Bounty Track Winner |€1,000
+ETHBerlin and the DoD: Networking Bounty Track Winner |€1,000
+Token Engineering Track Winner|€1,000
+Hyperledger Identity Layer - Integrated Credential Track Winner |€900
+Hyperledger Identity Layer - Empowering IoT Track Winner |€900
+Hyperledger Identity Layer - Social Impact Track Winner |€900
+Hyperledger Identity Layer  - Travel Enablement Track Winner |€900
 A Stack for Good Track Winner |€400
 Web 2.5 Track Winner |€400
 The Odyssey Serendipity Network Track Winner |€400
 Machine Learning in the Decentralised World Track Winner |€400
 Shaking Up the Model Track Winner |€400
 The Usable Stack Track Winner |€400
-T-Labs Sharing in Consortia Networks Track Winner|€1,000
-Hyperledger Identity Layer - Integrated Credential Track Winner |€900
-Hyperledger Identity Layer - Empowering IoT Track Winner |€900
-Hyperledger Identity Layer - Social Impact Track Winner |€900
-Hyperledger Identity Layer  - Travel Enablement Track Winner |€900
-ETHBerlin and the DoD: Middleware Bounty Track Winner |€1,000
-ETHBerlin and the DoD: UX Bounty Track Winner |€1,000
-ETHBerlin and the DoD: Networking Bounty Track Winner |€1,000
-Token Engineering Track Winner |€1,000
+
+Hyperledger, ETH Berlin and T-labs prizes are paid out in EUR. All other prizes are paid out in a combination of EUR and Fetch.AI tokens.
 
 #### Techology prizes
 
