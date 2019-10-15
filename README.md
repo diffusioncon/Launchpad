@@ -54,7 +54,7 @@ Bronze Runner-Up Diffusion Dev Con '19 |€400
 
 #### Track prizes
 
-**Prize **|**EUR Value**
+**Prize**|**EUR Value**
 -----|-----
 A Stack for Good Track Winner |€400
 Web 2.5 Track Winner |€400
@@ -74,7 +74,7 @@ Token Engineering Track Winner |€1,000
 
 #### Techology prizes
 
-**Prize **|**EUR Value **|**Paid As **|**Rules**
+**Prize**|**EUR Value**|**Paid As**|**Rules**
 -----|-----|-----|-----
 Winner of the Ocean Protocol Technology Prize |€1,000|OCEAN|Build with Ocean Protocol
 Ocean Runner-Up |€250|OCEAN|Build with Ocean Protocol
