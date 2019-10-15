@@ -6,7 +6,13 @@ This repository hosts code for quickly getting started with the protocols at the
 
 To get started, see the glossary of what to build on below.
 
-## What to build
+## Get started
+
+### Get your repo
+
+Submissions are made using your team's repo under the DiffusionCon organisation (this one). In order to get a repo, just register your submission on devpost [here](https://diffusion2019.devpost.com/) and **make sure at least one team member has their GitHub profile linked.** Your team repo will then be created for you, and you will have full access.
+
+You can choose to work in a repo elsewhere (e.g. under your own GitHub user) provided you pull the lates version into your team's repo for judging.
 
 ### Protocol Glossary
 
