@@ -14,21 +14,23 @@ How can you leverage the Convergence Stack to do Good, with a capital G? In this
 
 Focus areas: Learning, Storage, Networking, Middleware, UX
 
+2000 EUR available in prizes in bounties.
+
 ## ETHBerlin and the DoD: community improvement bounties
 
-ETHBerlin and the [Department of Decentralization](http://decentralala.com/) are coming to Diffusion 2019! We are excited to be hosting a track within the hackathon and there will be bounties of course. There will be Department of Decentralization Community Improvement Bounties focusing on all areas in the Convergence Stack, with a soft focus on Ethereum. Bounty details:
+ETHBerlin and the [Department of Decentralization](https://decentralala.com) are coming to Diffusion 2019! We are excited to be hosting a track within the hackathon and there will be bounties of course. There will be Department of Decentralization Community Improvement Bounties focusing on all areas in the Convergence Stack, with a soft focus on Ethereum. Bounty details:
 
-- Middleware Community Improvement Bounty: during ETHBerlinZwei, DeFi reigned supreme. We saw incredible projects such as the mixer of mixers S.U.D.Z, Cherry Swap: swapping interest rates using the Compound Protocol, or Ratelock: fixed interest rates for lending/borrowing. 
+Middleware Community Improvement Bounty: during ETHBerlinZwei, DeFi reigned supreme. We saw incredible projects such as the mixer of mixers S.U.D.Z, Cherry Swap: swapping interest rates using the Compound Protocol, or Ratelock: fixed interest rates for lending/borrowing.
 
-  The most innovative DeFi app built at Diffusion 2019 will be awarded 1,000 EUR.
+The most innovative DeFi app built at Diffusion 2019 will be awarded 1,000 EUR.
 
-- UX Community Improvement Bounty: We are looking for a project that truly moves the needle when it comes to overall User Experience and usability for the ecosystem. Working with a nascent technology it is necessary to address the underwhelming user experience and foster new mental models that users can easily rely upon when interfacing with the complexities of the Web 3 Technology Stack. 
+UX Community Improvement Bounty: We are looking for a project that truly moves the needle when it comes to overall User Experience and usability for the ecosystem. Working with a nascent technology it is necessary to address the underwhelming user experience and foster new mental models that users can easily rely upon when interfacing with the complexities of the Web 3 Technology Stack.
 
-  This bounty will also be awarded 1,000 EUR.
+This bounty will also be awarded 1,000 EUR.
 
-- Networking Community Improvement Bounty: this is a continuation of our initiative with Protocol Labs’ Libp2p. Before ETHBerlin, we sourced feedback from developers building on Cosmos, ETH2.0, Golem and more and identified pain points that Libp2p needed to overcome for a better experience building the core networking stack for technologies such as Cosmos, Polkadot, ETH 2.0, and many others. During ETHBerlinZwei, we offered six bounties. 
+Networking Community Improvement Bounty: this is a continuation of our initiative with Protocol Labs’ Libp2p. Before ETHBerlin, we sourced feedback from developers building on Cosmos, ETH2.0, Golem and more and identified pain points that Libp2p needed to overcome for a better experience building the core networking stack for technologies such as Cosmos, Polkadot, ETH 2.0, and many others. During ETHBerlinZwei, we offered six bounties.
 
-  We are continuing this great work by allocating 1,000 EUR to a Libp2p improvement bounty at Diffusion 2019. The more Libp2p continues to improve, the more teams around the blockchain ecosystem are benefitted! If you would like to contribute to the bounty, [the scope is here](https://github.com/ethberlinzwei/Bounties/issues/21).
+We are continuing this great work by allocating 1,000 EUR to a Libp2p improvement bounty at Diffusion 2019. The more Libp2p continues to improve, the more teams around the blockchain ecosystem are benefitted! If you would like to contribute to the bounty, the scope is [here](https://github.com/ethberlinzwei/Bounties/issues/21).
 
 ## Web 2.5: onboarding the rest of the world to decentralised technology
 
@@ -76,7 +78,9 @@ The TokenEngineering track seeks developers to use cadCAD to validate and improv
 
 In our introductory workshops you’ll learn how to design a token system from scratch, break it down to cryptoeconomic building blocks, think multiple layers of abstraction and use simulations to validate and iterate on a given module. This requires basic knowledge in Python, system dynamics, and token models.
 
-During the hackathon, you’ll be able to apply your learnings in a design challenge. The best solution will be awarded 1000 EUR.
+For more details see [this Medium post](https://medium.com/@Angela.Kreitenweis/token-genies-your-mission-and-mentors-part-2-9fc349e91d61) and [this Medium post](https://medium.com/freeelio-studios/token-genies-first-contact-part-1-de3268a1a58c).
+
+Head to the Token Engineering room on 1st floor for kick-off. **Attending this session is really important if you want to participate in the Token Engineering track!**
 
 ## Sharing in Consortia Networks: permissioned, tokenized data sharing with T-Labs
 

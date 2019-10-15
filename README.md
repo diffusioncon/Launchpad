@@ -42,7 +42,7 @@ Submissions must use one of the technologies of the Convergence Stack, please se
 
 ### Prize Glossary
 
-There are plenty of prizes to be had! Unless otherwise specified, prizes are paid out in a combination of EUR and Fetch.AI tokens.
+There are plenty of prizes to be had!
 
 #### Overall prizes
 
@@ -52,25 +52,29 @@ Winner of Diffusion Dev Con '19 |€1,600
 Silver Runner-Up Diffusion Dev Con '19 |€1,000
 Bronze Runner-Up Diffusion Dev Con '19 |€400
 
+Prizes are paid out in a combination of EUR and Fetch.AI tokens.
+
 #### Track prizes
 
 **Prize**|**EUR Value**
 -----|-----
+T-Labs Sharing in Consortia Networks Track Winner|€1,000
+ETHBerlin and the DoD: Middleware Bounty Track Winner |€1,000
+ETHBerlin and the DoD: UX Bounty Track Winner |€1,000
+ETHBerlin and the DoD: Networking Bounty Track Winner |€1,000
+Token Engineering Track Winner|€1,000
+Hyperledger Identity Layer - Integrated Credential Track Winner |€900
+Hyperledger Identity Layer - Empowering IoT Track Winner |€900
+Hyperledger Identity Layer - Social Impact Track Winner |€900
+Hyperledger Identity Layer  - Travel Enablement Track Winner |€900
 A Stack for Good Track Winner |€400
 Web 2.5 Track Winner |€400
 The Odyssey Serendipity Network Track Winner |€400
 Machine Learning in the Decentralised World Track Winner |€400
 Shaking Up the Model Track Winner |€400
 The Usable Stack Track Winner |€400
-T-Labs Sharing in Consortia Networks Track Winner|€1,000
-Identity and and beyond with Hyperledger - Integrated Credential Track Winner |€900
-Identity and and beyond with Hyperledger - Empowering IoT Track Winner |€900
-Identity and and beyond with Hyperledger - Social Impact Track Winner |€900
-Identity and and beyond with Hyperledger - Travel Enablement Track Winner |€900
-ETHBerlin and the DoD: Middleware Bounty Track Winner |€1,000
-ETHBerlin and the DoD: UX Bounty Track Winner |€1,000
-ETHBerlin and the DoD: Networking Bounty Track Winner |€1,000
-Token Engineering Track Winner |€1,000
+
+Hyperledger, ETH Berlin and T-labs prizes are paid out in EUR. All other prizes are paid out in a combination of EUR and Fetch.AI tokens.
 
 #### Techology prizes
 
@@ -135,20 +139,21 @@ Winner of the Chainlink Technology Prize|€450|LINK|Build with Chainlink
 
 ### Saturday
 
-**Timings**|**Lexis: Purple zone (Ground Floor)**|**Lexis: Yellow zone (Ground Floor)**|**Lexis: Blue zone (Ground Floor)**|**Peter (2nd Floor)**
------|-----|-----|-----|-----
-9:30|Open to take seats|Open to take seats|Open to take seats| 
-10:00|Opening ceremony|Opening ceremony|Opening ceremony| 
-12:30|Fetch.AI workshop: decentralized ML|FOAM talk: using proof-of-location today|Ocean Protocol workshop: buying and selling datasets| 
-13:00|Fission workshop: apps on IPFS in seconds|Deutsche Telekom talk: enterprise in blockchain|SEED talk: conversational AI| 
-13:30|Evernym talk: self-sovereign identity|Chainlink talk: smart contracts in real-life situations|Haja Networks workshop: decentralized databases| 
-14:00|IOTA talk: state of the DAG|R3 workshop: build on Corda|Cosmos workshop: build a blockchain app| 
-14:30|Enigma talk: private smart contracts on public networks|ETH Berlin talk: using the Goerli testnet|Fractal talk: regulatory compliance cheatsheet|DAOStack workshop: deploy DAOs fast
-15:00|Cosmos & Agoric workshop: blockchain interoperability|Fetch.AI talk: Fetch.AI for Ethereum developers|Quorum Control talk: Tupelo - PoS + DAG + IPFS|DAOStack workshop: deploy DAOs fast
-15:30|Alkemi talk: profiting off idle tokens|Odyssey talk: ecoystems for good|Ocean Protocol talk|DAOStack workshop: deploy DAOs fast
-16:00|Parity workshop: build fast blockchains with Substrate|Taqanu talk: decentralized identity|Nervos talk: a blockchain that stores any crypto|DAOStack workshop: deploy DAOs fast
-16:30|Outlier Ventures Base Camp| |OS Coin talk: Radicle - paying open-source devs| 
-17:00|Outlier Ventures Base Camp| | | 
+**Timings**|**Lexis: Purple zone (Ground Floor)**|**Lexis: Yellow zone (Ground Floor)**|**Lexis: Blue zone (Ground Floor)**|**TE Room (First Floor)**|**Peter (2nd Floor)**
+-----|-----|-----|-----|-----|-----
+9:30|Open to take seats|Open to take seats|Open to take seats| | 
+10:00|Opening ceremony|Opening ceremony|Opening ceremony| | 
+11:00| | | |Zero-to-One workshop: token engineering| 
+12:30|Fetch.AI workshop: decentralized ML|FOAM talk: using proof-of-location today|Ocean Protocol workshop: buying and selling datasets| | 
+13:00|Fission workshop: apps on IPFS in seconds|Deutsche Telekom talk: enterprise in blockchain|SEED talk: conversational AI| | 
+13:30|Evernym talk: self-sovereign identity|Chainlink talk: smart contracts in real-life situations|Haja Networks workshop: decentralized databases| | 
+14:00|IOTA talk: state of the DAG|R3 workshop: build on Corda|Cosmos workshop: build a blockchain app| | 
+14:30|Enigma talk: private smart contracts on public networks|ETH Berlin talk: using the Goerli testnet|Fractal talk: regulatory compliance cheatsheet|cadCAD workshop: token engineering|DAOStack workshop: deploy DAOs fast
+15:00|Cosmos & Agoric workshop: blockchain interoperability|Fetch.AI talk: Fetch.AI for Ethereum developers|Quorum Control talk: Tupelo - PoS + DAG + IPFS| |DAOStack workshop: deploy DAOs fast
+15:30|Alkemi talk: profiting off idle tokens|Odyssey talk: ecosystems for good|Ocean Protocol talk| |DAOStack workshop: deploy DAOs fast
+16:00|Parity workshop: build fast blockchains with Substrate|Taqanu talk: decentralized identity|Nervos talk: a blockchain that stores any crypto| |DAOStack workshop: deploy DAOs fast
+16:30|Outlier Ventures Base Camp| |OS Coin talk: Radicle - paying open-source devs| | 
+17:00|Outlier Ventures Base Camp| | | | 
 
 ### Sunday
 
