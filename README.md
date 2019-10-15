@@ -56,7 +56,7 @@ Prizes are paid out in a combination of EUR and Fetch.AI tokens.
 
 #### Track prizes
 
-**Prize **|**EUR Value**
+**Prize**|**EUR Value**
 -----|-----
 T-Labs Sharing in Consortia Networks Track Winner|€1,000
 ETHBerlin and the DoD: Middleware Bounty Track Winner |€1,000
@@ -78,7 +78,7 @@ Hyperledger, ETH Berlin and T-labs prizes are paid out in EUR. All other prizes 
 
 #### Techology prizes
 
-**Prize **|**EUR Value **|**Paid As **|**Rules**
+**Prize**|**EUR Value**|**Paid As**|**Rules**
 -----|-----|-----|-----
 Winner of the Ocean Protocol Technology Prize |€1,000|OCEAN|Build with Ocean Protocol
 Ocean Runner-Up |€250|OCEAN|Build with Ocean Protocol
