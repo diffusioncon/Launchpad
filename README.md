@@ -104,6 +104,10 @@ Fetch Runner-up|€250|FET|Build with Fetch.ai
 Fetch Runner-up|€250|FET|Build with Fetch.ai
 Fetch Runner-up|€250|FET|Build with Fetch.ai
 Fetch Runner-up|€250|FET|Build with Fetch.ai
+Winner of the Enigma Technology Prize |€1,000|ENG|Build with Enigma
+Enigma runner up 1|€250|ENG|Build with Enigma
+Enigma runner up 2|€250|ENG|Build with Enigma
+Enigma runner up 3|€250|ENG|Build with Enigma
 Winner of the FOAM Technology Prize |€1,000|EUR|Build with FOAM
 FOAM runner up 1|€250|EUR|Build with FOAM
 FOAM runner up 2|€250|EUR|Build with FOAM
