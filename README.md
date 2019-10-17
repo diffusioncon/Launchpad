@@ -12,7 +12,7 @@ To get started, see the glossary of what to build on below.
 
 Submissions are made using your team's repo under the DiffusionCon organisation (this one). In order to get a repo, just register your submission on devpost [here](https://diffusion2019.devpost.com/) and **make sure at least one team member has their GitHub profile linked.** Your team repo will then be created for you, and you will have full access.
 
-You can choose to work in a repo elsewhere (e.g. under your own GitHub user) provided you pull the latest version into your team's repo for judging.
+You can choose to work in a repo elsewhere (e.g. under your own GitHub user) provided you pull the latest version into your team's repo for judging. **Make sure whatever code you have is committed to your official repo by 14:00 on Sunday. You may continue editing until the deadline, as long as some of your code is in by 14:00.**
 
 ### Protocol Glossary
 
