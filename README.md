@@ -37,7 +37,7 @@ IOTA|Transactions / DAG|Java / JS / Go / Python / C#|Scalable distributed ledger
 Ocean Protocol|Data marketplace|Python / JS / Java|Buy and sell datasets.
 OrbitDB|Databases / IPFS|JS|Decentralized database.
 Parity/Substrate|Blockchain platform|Rust / JS|Hyper-fast blockchains.
-Quorum Control|Blockchain platform|JS / TypeScript / Closure|PoS + DAG + IPFS.
+Tupelo|Blockchain platform|JS / TypeScript / ClosureScript|PoS + NFT + IPFS.
 R3 Corda|Blockchain platform|Kotlin / Java|Enterprise blockchains.
 Rightmesh|Mesh networking|Kotlin / Java|IoT edge networking.
 SEED|Chatbots|Python / JS|Conversational AI.
@@ -159,7 +159,7 @@ Winner of the Chainlink Technology Prize|€450|LINK|Build with Chainlink
 13:30|Evernym talk: self-sovereign identity|Chainlink talk: smart contracts in real-life situations|OrbitDB workshop: a decentralized database in seconds| | 
 14:00|IOTA talk: state of the DAG|R3 workshop: build on Corda|Cosmos workshop: build a blockchain app| | 
 14:30|Enigma talk: private smart contracts on public networks|ETH Berlin talk: using the Goerli testnet|Fractal talk: regulatory compliance cheatsheet|cadCAD workshop: token engineering|DAOStack workshop: deploy DAOs fast
-15:00|Cosmos & Agoric workshop: blockchain interoperability|Fetch.AI talk: Fetch.AI for Ethereum developers|Quorum Control talk: Tupelo - PoS + DAG + IPFS| |DAOStack workshop: deploy DAOs fast
+15:00|Cosmos & Agoric workshop: blockchain interoperability|Fetch.AI talk: Fetch.AI for Ethereum developers|Tupelo talk: Tupelo - PoS + NFT + IPFS| |DAOStack workshop: deploy DAOs fast
 15:30|Alkemi talk: profiting off idle tokens|Odyssey talk: ecosystems for good|Ocean Protocol talk| |DAOStack workshop: deploy DAOs fast
 16:00|Parity workshop: build fast blockchains with Substrate|Decentralized Identity Foundation talk: decentralized identity|Nervos talk: a blockchain that stores any crypto| |DAOStack workshop: deploy DAOs fast
 16:30|Outlier Ventures Base Camp| |OS Coin talk: Radicle - paying open-source devs| | 
