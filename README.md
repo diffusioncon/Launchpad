@@ -48,24 +48,24 @@ Submissions must use one of the technologies of the Convergence Stack, please se
 
 ### Judging criteria
 
-Diffusion is all about the diffusion of innovation - to bring the innovation of all protocols participating in Diffusion 2019 to a wider audience. Within this, there are two main areas we ask judges to consider:
+Diffusion is all about the diffusion of innovation - to bring the innovation of all protocols participating in Diffusion 2019 to a wider audience. Within this, there are two main areas judges will consider:
 
 - User experience (UX) - for projects that build a product that will be used directly by people, e.g. a DApp or a service.
 - Developer experience (DX) - for projects that build an API, tool or component that enable developers to work with the technologies out of the Convergence Stack.
 
 Other aspects like technical soundness, security, and innovation are important, but within the above areas.
 
-Judges are connected to tracks and will consider the fit of the project with the theme of the track, and any specific rules that track might have.
+Furthermore, judges will consider the following aspects:
 
-In addition, judges will rate projects to use more than one technology out of the Convergence Stack in a sensible way more highly than projects that build on a single technology.
-
-Having a commercial model as part of the project will be judged where appropriate, as part of a wider characteristic: how the project will be sustained.
+- Track fit: Judges are connected to tracks and will consider the fit of the project with the theme of the track, and any specific rules that track might have. See the details for your track in the track descriptions on the website and GitHub, and don’t be afraid to ask your track mentors in the track Telegram channel.
+- Sustaining development: it’s important that you clarify how your project will continue to be developed. That might be a commercial model, and it might be something else like an open source community. You should have an answer to the question how your project could be alive in 1, 2, 12… months.
+- Convergence Stack Mashup: judges will rate projects to use more than one technology out of the Convergence Stack in a sensible way more highly than projects that build on a single technology. There are 7 technologies handing out prizes to projects building on their technologies, so using multiple technologies is also a great way to qualify for more prizes.
 
 With the exception of the token engineering track, **your submission must build on one or more of the protocols in the glossary above to be eligible for a prize.**
 
 ### Prize Glossary
 
-There are plenty of prizes to be had!
+There are plenty of prizes to be won!
 
 #### Overall prizes
 
