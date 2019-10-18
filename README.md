@@ -46,6 +46,23 @@ Check out the [tracks](https://github.com/DiffusionCon/Launchpad/blob/master/TRA
 
 Submissions must use one of the technologies of the Convergence Stack, please see the (lax) [rules](https://diffusion2019.devpost.com/rules).
 
+### Judging criteria
+
+Diffusion is all about the diffusion of innovation - to bring the innovation of all protocols participating in Diffusion 2019 to a wider audience. Within this, there are two main areas we ask judges to consider:
+
+- User experience (UX) - for projects that build a product that will be used directly by people, e.g. a DApp or a service.
+- Developer experience (DX) - for projects that build an API, tool or component that enable developers to work with the technologies out of the Convergence Stack.
+
+Other aspects like technical soundness, security, and innovation are important, but within the above areas.
+
+Judges are connected to tracks and will consider the fit of the project with the theme of the track, and any specific rules that track might have.
+
+In addition, judges will rate projects to use more than one technology out of the Convergence Stack in a sensible way more highly than projects that build on a single technology.
+
+Having a commercial model as part of the project will be judged where appropriate, as part of a wider characteristic: how the project will be sustained.
+
+With the exception of the token engineering track, **your submission must build on one or more of the protocols in the glossary above to be eligible for a prize.**
+
 ### Prize Glossary
 
 There are plenty of prizes to be had!
