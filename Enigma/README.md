@@ -3,14 +3,16 @@
 
 Private compute. Compute on data while keeping it private. Callable from Ethereum contracts or a JS API.
 
+[Enigma Diffusion Event Information!](https://medium.com/p/dbe1e1cc7984/edit)
+
 [GitHub](https://github.com/enigmampc) - [Website](https://enigma.co/) - [Docs](https://enigma.co/discovery-documentation/) - [Chat](https://discord.gg/SJK32GY)
 
 
 ## Summary
 
-Enigma is a computation network that achieves somewhat homomorphic encryption through multi-party computation. Secure compute is ensured by Intel SGX and occurs on-chain.
+Enigma is a computation network that enables computation over encrypted data. Similar to homomorphic encryption, multi-party computation, or varieties of zero-knowledge proofs, Enigma achieves this through a network of nodes which are enabled with Intel SGX. 
 
-Compute tasks are written as Secret Contracts in Rust. These are deployed using the Discovery CLI. Private data is encrypted by EnigmaJS and fed into Secret Contracts. Tasks are initiated by being called from Ethereum contracts.
+The Enigma Discovery developer environment is accessed via the Discovery CLI (note: the file size is large. Can Kisagun --@kisaguncan on Twitter-- is present at Diffusion and has USB sticks!). The compute tasks are written as Secret Contracts in Rust and deployed to the Enigma Discovery testnet. Private data is encrypted by the EnigmaJS client, and submitted as a Task to Secret Contracts which then perform the computation. Secret Contracts can also call arbitrary functions on Ethereum, which is how Enigma manages Ethereum <-> Enigma interoperability. 
 
 Network components:
 
@@ -66,6 +68,6 @@ In general, stick to core Rust without dependencies and you can compute pretty m
 
 ## Further resources
 
+- [Diffusion specific information](https://medium.com/p/dbe1e1cc7984/edit)
 - [Developer landing page](https://enigma.co/developers/)
 - [Quickstart Medium article](https://enigma.co/start)
-
