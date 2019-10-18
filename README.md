@@ -187,3 +187,13 @@ Register submissions on [Devpost](https://diffusion2019.devpost.com/).
 5. Hit submit.
 
 Judging will take place on the platform and announced at the event, as well as over email.
+
+## Support
+
+Please join the [Telegram channel](https://t.me/diffusion2019) for questions and discussions.
+
+Use hashtags in the chat to easily share resources or ask for help about different technologies or platforms. eg. #ipfs or #solidity
+
+### IPFS Help Desk
+
+There is an IPFS Help Desk with the team from Fission and Moxy Studio volunteering to help anyone that wants to use IPFS to host or integrate with their projects.
