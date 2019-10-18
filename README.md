@@ -44,7 +44,7 @@ SEED|Chatbots|Python / JS|Conversational AI.
 
 Check out the [tracks](https://github.com/DiffusionCon/Launchpad/blob/master/TRACKS.md) and the technology starter kits in this repo.
 
-Submissions must use one of the technologies of the Convergence Stack, please see the (lax) [rules](https://diffusion2019.devpost.com/rules).
+Submissions must use one of the technologies of the Convergence Stack, please see the [rules](https://diffusion2019.devpost.com/rules).
 
 ### Judging criteria
 
@@ -62,6 +62,10 @@ Furthermore, judges will consider the following aspects:
 - Convergence Stack Mashup: judges will rate projects to use more than one technology out of the Convergence Stack in a sensible way more highly than projects that build on a single technology. There are 7 technologies handing out prizes to projects building on their technologies, so using multiple technologies is also a great way to qualify for more prizes.
 
 With the exception of the token engineering track, **your submission must build on one or more of the protocols in the glossary above to be eligible for a prize.**
+
+### Judging procedure
+
+See [all details about submitting your results and the judging procedure](JUDGING.md).
 
 ### Prize Glossary
 
