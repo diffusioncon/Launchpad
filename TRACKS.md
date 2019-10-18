@@ -42,11 +42,21 @@ Focus areas: Learning, Storage, Networking, Middleware, UX
 
 ## The Odyssey Serendipity Network: growing a network of ecosystems
 
-The Challenge: Creating the infrastructure for collaborative knowledge networks where questions meet people who want to help answer those questions. An open-source, decentralised network of (curated) ecosystem nodes, where people actually want to find each other. Their stories are bright stars, bound to be connected, only to find out the connection is already there.
+**The Challenge:** Creating the infrastructure for collaborative knowledge networks where questions meet people who want to help answer those questions. An open-source, decentralised network of (curated) ecosystem nodes, where people actually want to find each other. Their stories are bright stars, bound to be connected, only to find out the connection is already there.
+A winning team will...develop an open-source, scalable solution maximizing the opportunities for bottom-up growth through the Odyssey ecosystem and the ecosystem of its friends and partners, like Diffusion.
 
-Since 2017, Odyssey has grown into the largest AI and blockchain hackathon in the world. Anyone who has ever been at Odyssey experiences a network and serendipity effect that is unlike any other hackathon. To get a feel for that serendipity, just have a look at the [Odyssey 2019 after movie](https://www.youtube.com/watch?v=wnhpSLb30BU). With the Serendipity Network we want to digitise and distribute the serendipity effect of the Odyssey Hackathon experience for everyone in the world and create a network of ecosystems committed to helping each other. Where each actor and ecosystem is connected, not based on who knows whom but on who is working on what and in which context.
+**Budget and development after Diffusion**
+
+There is budget available for developing the open source winning solution after Diffusion. The winner(s) of this challenge are invited to co-develop their Serendipity-solution with us and to test it with 2.000 participants at Odyssey Hackathon, 2-6 April 2020. When successful and with the learnings of this test, all Odyssey friends & partners are invited to run a node of the system, boosting the serendipity:) 
+
+**Ambition**
+
+Since 2017, Odyssey has grown into the largest AI and blockchain hackathon in the world. Anyone who has ever been at Odyssey experiences a network and serendipity effect that is unlike any other hackathon. To get a feel for that serendipity, just have a look at the Odyssey 2019 after movie. 
+
+With the Serendipity Network we want to digitise and distribute the serendipity effect of the Odyssey Hackathon experience for everyone in the world and create a network of ecosystems committed to helping each other. Where each actor and ecosystem is connected, not based on who knows whom but on who is working on what and in which context.
 
 Focus areas: UX, Storage, Middleware
+
 
 ## Machine Learning in the Decentralised World: opening the AI silos
 
