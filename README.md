@@ -37,7 +37,6 @@ IOTA|Transactions / DAG|Java / JS / Go / Python / C#|Scalable distributed ledger
 Ocean Protocol|Data marketplace|Python / JS / Java|Buy and sell datasets.
 OrbitDB|Databases / IPFS|JS|Decentralized database.
 Parity/Substrate|Blockchain platform|Rust / JS|Hyper-fast blockchains.
-Tupelo|Blockchain platform|JS / TypeScript / ClosureScript|PoS + NFT + IPFS.
 Rightmesh|Mesh networking|Kotlin / Java|IoT edge networking.
 SEED|Chatbots|Python / JS|Conversational AI.
 
