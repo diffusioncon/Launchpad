@@ -27,6 +27,7 @@ Chainlink|DeFi / data|JS / Solidity|Data / FIAT blockchain plugins.
 Cosmos|Blockchain platform|Go|Build blockhains.
 DAOStack|DAO|JS|Build DAOs.
 Enigma|Privacy / smart contracts|Rust / JS|Decentralized private compute.
+Ethereum|Smart contracts|Many languages|Open source platform for decentralized applications.
 Fetch.AI|Machine Learning|Python / C++|Decentralized machine learning.
 Fission|IPFS / Ethereum|Most languages|Ethereum and IPFS tooling.
 FOAM|Location|JS / Haskell / PureScript|Proof of location.
