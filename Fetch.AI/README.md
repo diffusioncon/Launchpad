@@ -23,7 +23,7 @@ The Fetch.AI [ledger](https://docs.fetch.ai/ledger/architecture/) runs smart con
 
 To ease transition for developers familiar with the Ethereum ecosystem, Fetch.AI provides a Solidity to Etch [transpiler](https://build.fetch.ai/solidity/).
 
-Deployments are done using the Ledger API in Python: `pip3 install fetchai-ledger-api`. Get started [here](https://docs.fetch.ai/getting-started/python-api-install/).
+Deployments are done using the Ledger API in Python: `pip3 install fetchai-ledger-api==0.9.0a2`. Get started [here](https://docs.fetch.ai/getting-started/python-api-install/).
 
 See `smart_contract.py` for how to deploy smart contracts to your node.
 
