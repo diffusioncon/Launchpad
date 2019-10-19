@@ -3,7 +3,7 @@
 
 An Open Economic Framework (OEF) for AI agents acting on behalf of humans. An excellent technology for machine learning and agent-based projects.
 
-Fetch.AI has two parts: a smart contract platform and second layer of autonomous economic agents embeded in an open economic framework.
+Fetch.AI has two parts: a smart contract platform and second layer of autonomous economic agents embedded in an open economic framework.
 
 [GitHub](https://github.com/fetchai) - [Website](https://fetch.ai/) - [Docs](https://docs.fetch.ai/) - [Chat](https://app.slack.com/client/TCK9CHC5V)
 
@@ -25,7 +25,7 @@ To ease transition for developers familiar with the Ethereum ecosystem, Fetch.AI
 
 Deployments are done using the Ledger API in Python: `pip3 install fetchai-ledger-api==0.9.0a2`. Get started [here](https://docs.fetch.ai/getting-started/python-api-install/).
 
-See `smart_contract.py` for how to deploy smart contracts to your node.
+See `smart_contract.py` for how to deploy smart contracts to your node. Note that you must run a node locally to send the smart contracts to. Build and run the node [here](https://github.com/fetchai/ledger).
 
 #### The Open Economic Framework (OEF) and Autonomous Economic Agents (AEAs)
 
