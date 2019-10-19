@@ -49,6 +49,4 @@ The [AEA Framework](https://fetchai.github.io/agents-aea/) is a framework for de
 
 ## Machine Learning with Fetch.AI
 
-You can plug Python code natively into any OEF agent with the OEF Python SDK.
-
-Create a class that extends `OEFAgent` and just plug any ML functions in as needed. See `aea_buyer.py` and `aea_seller.py` for examples.
+You can view our Machine learning exmaples for the Fetch.ai Ledger [here](https://github.com/fetchai/ledger/tree/master/libs/vm-modules/examples)
