@@ -64,7 +64,7 @@ Although we will do our utmost to divide the judging slots so that every team ca
 
 If you aim to present at many tables (3 or more), try to keep your presentation short so you can quickly go from table to table.
 
-### Can we submit our project in multiple tracks?
+### Can we submit our project to multiple tracks?
 
 Yes you can! The only thing you need to do is present at other judging tables within your 30 minute time slot.
 
