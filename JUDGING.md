@@ -62,4 +62,4 @@ If you aim to present at many tables (3 or more), try to keep your presentation 
 
 ### Can I submit in multiple tracks?
 
-Yes you can! For example, if your project uses machine learning, and a use case with permissioned data sharing, it would be great to present to both _Machine Learning in the Decentralised World_ and _Sharing in Consortia Networks_!
+Yes you can! For example, if your project is about permissioned data sharing, and uses machine learning, it would be great to present to both the _Machine Learning in the Decentralised World_ and _Sharing in Consortia Networks_ judging tables!
