@@ -54,12 +54,22 @@ Token Engineering room|Token Engineering
 
 ## FAQ
 
-### What if I don't manage to present at all tables I want in my 30 minute slot?
+### Can we use a screen or projector when presenting?
+
+No, the judging tables don't have presentation screens. You'll have to present from your own laptop, and/or mobile device if you are building a mobile app.
+
+### What if we don't manage to present at all tables we want in our 30 minute slot?
 
 Although we will do our utmost to divide the judging slots so that every team can present at every table they want, it might happen that some tables are very popular or that you are not able to present to all tables you want within your 30 minute slot. If this happens, contact Aron van Ammers or Theo Turner and we'll try to find a solution.
 
 If you aim to present at many tables (3 or more), try to keep your presentation short so you can quickly go from table to table.
 
-### Can I submit in multiple tracks?
+### Can we submit our project in multiple tracks?
 
-Yes you can! For example, if your project is about permissioned data sharing, and uses machine learning, it would be great to present to both the _Machine Learning in the Decentralised World_ and _Sharing in Consortia Networks_ judging tables!
+Yes you can! The only thing you need to do is present at other judging tables within your 30 minute time slot.
+
+For example, if your project is about permissioned data sharing, and uses machine learning, it would be great to present to both the _Machine Learning in the Decentralised World_ and _Sharing in Consortia Networks_ judging tables!
+
+### We use hardware which takes time to set up, how do we solve that?
+
+If your project uses hardware it might be challenging to go around multiple judging tables and set everything up. If this applies to your project, please contact Aron van Ammers or Theo Turner.
