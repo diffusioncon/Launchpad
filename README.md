@@ -6,6 +6,10 @@ This repository hosts code for quickly getting started with the protocols at the
 
 To get started, see the glossary of what to build on below.
 
+## Thanks all for a massive Diffusion 2019! See you in 2020!
+
+Check out the fantastic submissions under [DiffusionCon](https://github.com/DiffusionCon/Launchpad). Thanks to the hackers, mentors, judges, speakers and investors! See you at Diffusion 2020!
+
 ## Get started
 
 ### Get your repo
