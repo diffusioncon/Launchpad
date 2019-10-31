@@ -55,9 +55,9 @@ brew install fission-cli
 
 ```bash
 # Download our binary
-curl
-\ https://github.com/fission-suite/web-api/releases/download/1.16.0/deb-cli
-\ -o fission-cli
+curl \
+ https://github.com/fission-suite/web-api/releases/download/1.16.0/deb-cli \
+ -o fission-cli
 
 # Give it executable permission
 sudo chmod +x ./fission-cli
